@@ -1,5 +1,5 @@
 # SQL Basics Cheat Sheet Code
-I created cheat sheet from my study notes for **SQL**.
+I created cheat sheet from my study notes for **SQL**. You can simply find code in this repositories.
 
 ![1](https://github.com/user-attachments/assets/ef64ce63-fd2a-485c-9892-a97da40ecb08)
 
